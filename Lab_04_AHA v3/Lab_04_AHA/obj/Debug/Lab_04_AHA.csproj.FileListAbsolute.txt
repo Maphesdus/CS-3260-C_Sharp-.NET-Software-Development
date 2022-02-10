@@ -1,0 +1,7 @@
+C:\Users\10435286\source\repos\Lab_04_AHA\Lab_04_AHA\bin\Debug\Lab_04_AHA.exe.config
+C:\Users\10435286\source\repos\Lab_04_AHA\Lab_04_AHA\bin\Debug\Lab_04_AHA.exe
+C:\Users\10435286\source\repos\Lab_04_AHA\Lab_04_AHA\bin\Debug\Lab_04_AHA.pdb
+C:\Users\10435286\source\repos\Lab_04_AHA\Lab_04_AHA\obj\Debug\Lab_04_AHA.csprojAssemblyReference.cache
+C:\Users\10435286\source\repos\Lab_04_AHA\Lab_04_AHA\obj\Debug\Lab_04_AHA.csproj.CoreCompileInputs.cache
+C:\Users\10435286\source\repos\Lab_04_AHA\Lab_04_AHA\obj\Debug\Lab_04_AHA.exe
+C:\Users\10435286\source\repos\Lab_04_AHA\Lab_04_AHA\obj\Debug\Lab_04_AHA.pdb
