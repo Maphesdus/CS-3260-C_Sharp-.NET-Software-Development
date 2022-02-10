@@ -1,0 +1,7 @@
+C:\Users\nanob\source\repos\Lab_05_AHA\Lab_05_AHA\bin\Debug\Lab_05_AHA.exe.config
+C:\Users\nanob\source\repos\Lab_05_AHA\Lab_05_AHA\bin\Debug\Lab_05_AHA.exe
+C:\Users\nanob\source\repos\Lab_05_AHA\Lab_05_AHA\bin\Debug\Lab_05_AHA.pdb
+C:\Users\nanob\source\repos\Lab_05_AHA\Lab_05_AHA\obj\Debug\Lab_05_AHA.csprojAssemblyReference.cache
+C:\Users\nanob\source\repos\Lab_05_AHA\Lab_05_AHA\obj\Debug\Lab_05_AHA.csproj.CoreCompileInputs.cache
+C:\Users\nanob\source\repos\Lab_05_AHA\Lab_05_AHA\obj\Debug\Lab_05_AHA.exe
+C:\Users\nanob\source\repos\Lab_05_AHA\Lab_05_AHA\obj\Debug\Lab_05_AHA.pdb
